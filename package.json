@@ -44,7 +44,7 @@
     "currency.js": "^2.0.4",
     "dompurify": "^3.4.17",
     "driver.js": "^1.8.0",
-    "lodash": "^4.17.23",
+    "lodash": "^4.18.1",
     "marked": "^16.4.2",
     "mathjs": "^15.2.0",
     "moment": "^2.30.1",
